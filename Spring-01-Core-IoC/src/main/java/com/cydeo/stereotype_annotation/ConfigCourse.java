@@ -7,4 +7,5 @@ import org.springframework.context.annotation.Configuration;
 //@ComponentScan
 @ComponentScan(basePackages = "com.cydeo")
 public class ConfigCourse {
+
 }
